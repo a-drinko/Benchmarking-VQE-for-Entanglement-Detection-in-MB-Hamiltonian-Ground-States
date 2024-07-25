@@ -44,7 +44,7 @@ J = -1
 h = 0
 
 nLayers = 1
-passos = 50  #number of random starts of optimization
+passos = 250  #number of random starts of optimization
 steps = 200  #max iterations
 
 Nshots = 100 #number of shots
